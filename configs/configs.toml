@@ -1,0 +1,5 @@
+[GENERAL]
+DATA_FILE_PATH = "data/static/input/csv/data.csv"
+PUBLICATIONS_FILE_PATH = "data/static/output/csv/publications.csv"
+XML_FILE_PATH = "/data/static/input/xml/dblp-2021-02-01.xml"
+TXT_OUTPUT_PATH = "/data/static/output/txt/dblp-2021-02-01.txt"
