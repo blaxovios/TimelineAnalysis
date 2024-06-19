@@ -16,7 +16,7 @@ maintainers = [
 description = "A repository for data timeline analysis."
 readme = "README.md"
 license = {file = "LICENSE.txt"}
-keywords = ["restful", "api", "fastapi", "flask", "django", "asynchronous", "streamlit", "geocoder"]
+keywords = []
 classifiers = ["Programming Language :: Python"]
 
 [project.urls]

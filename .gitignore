@@ -1,8 +1,1 @@
-/static/greece-latest-free/
-./.git/objects/pack/pack-90354bfcef69b09f364afc4f53a75dc3c294de36.pack
-./venv/lib/python3.11/site-packages/xgboost/lib/libxgboost.so
-./data/static/exports/parquet/xe.parquet
-./.git/objects/pack/pack-90354bfcef69b09f364afc4f53a75dc3c294de36.pack
-./.git/objects/pack/pack-1ccdd2c5dcc9b3b06f8c6a4b4a4baf1b85a57e02.pack
-./venv/lib/python3.11/site-packages/xgboost/lib/libxgboost.so
-./data/static/exports/parquet/xe.parquet
+./venv/
